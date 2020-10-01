@@ -1,0 +1,10 @@
+chatbook:
+  ribbon:
+    eureka:
+      enabled: false
+    listOfServers: localhost:8081, localhost:8082, localhost:8083
+    ServerLIstRefreshInterval: 2000
+    
+    
+Server:
+  port: 9090
